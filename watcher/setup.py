@@ -10,4 +10,5 @@ setup(
     name="straight-watcher",
     url="https://github.com/radian-software/straight.el",
     version="1.0-dev",
+    py_modules=[],
 )
